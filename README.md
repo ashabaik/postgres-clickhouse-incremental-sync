@@ -1,4 +1,4 @@
-# Koinz Data Engineering Case Study
+# PostgreSQL to ClickHouse Incremental Sync
 
 ## Overview
 
